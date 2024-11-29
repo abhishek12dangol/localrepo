@@ -1,0 +1,15 @@
+#p1{
+    color: red;
+}
+#p2{
+    color: blue
+}
+#p3{
+    color: green
+}
+body{
+    background-color: antiquewhite;
+}
+.test{
+    border: 1px solid black;
+}
